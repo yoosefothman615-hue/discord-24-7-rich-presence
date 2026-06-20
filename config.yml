@@ -2,29 +2,26 @@
 application_id: "1311204057490259979"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
-type: 3
+type: 0
 
 # Activity Details
-name: "Youtube"
-details: "Watching Nexos Labs"
-state: "Subscribe"
+name: "Animation71"
+details: "@ 100.0%"
+state: ""
 
 # Activity Images
 largeImageKey: "1377844502521446490"
-largeImageText: "Watching Nexos Labs"
-smallImageKey: "1377845999464087653"
-smallImageText: "Subscribe"
+largeImageText: "Untitled"
+smallImageKey: ""
+smallImageText: ""
 
 # Activity URL (optional, works only with certain types)
-url: "https://www.youtube.com/@nexoscreator"
+url: ""
 
 # Activity Buttons (optional)
-buttons:
-  - name: "Visit Website"
-    url: "https://www.nexoscreator.tech"
-  - name: "GitHub Repo"
-    url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
+# أزلنا الأزرار لأن الألعاب الأصلية على الديسكورد لا تحتوي على أزرار روابط
+buttons: []
 
 # Activity Custom status
-custom_status: "Watching tutorials"
-custom_emoji: "🔥"
+custom_status: ""
+custom_emoji: ""
